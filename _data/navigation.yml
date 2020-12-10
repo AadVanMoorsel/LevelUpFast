@@ -1,6 +1,10 @@
 main:
   - title: Topics
     url: /topics/
+  - title: Members
+    url: /members/
+  - title: Support
+    url: /sponsors/
 #  - title: "Posts"
 #    url: /posts/
 #  - title: "Categories"
