@@ -1,6 +1,11 @@
 ---
 permalink: /about/
 title: "About"
+sidebar:
+  - title: ""
+    image: assets/images/logo.png
+    image_alt: "Logo"
+    text: <b>Level Up Fast</b> is a grass-roots effort in digital upskilling for <b>Covid recovery</b>. Brought to you by colleges, universities and other digital skills providers from North East England.
 ---
 
 LevelUpFast is a grass roots coalition of education and training providers, including universities and colleges. The group is supported by National Innovation Centre for Data, Sunderland Software City and the NELEP. 
