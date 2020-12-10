@@ -1,6 +1,7 @@
 ---
 permalink: /topics/
 title: Digital Safety Provision
+author_profile: false
 sidebar:
   - title: ""
     image: assets/images/logo.png
