@@ -57,8 +57,8 @@ plugins:
 
 author:
   name   : "Level Up Fast"
-#  avatar : "/assets/images/LevelUpFastPicture.png"
-  bio    : "Grass-roots effort from colleges, universities and other digital skills providers to provide solution for Covid recovery in North East England."
+  avatar : "/assets/images/logo.png"
+  bio    : "Grass-roots effort in digital upskilling for Covid recovery.  Brought to you by a consortium of colleges, universities and other digital skills providers from North East England."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -103,7 +103,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
 
 category_archive:
   type: liquid
@@ -111,3 +111,9 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+collections:
+  members:
+    output: true
+  sponsors:
+    output: true
